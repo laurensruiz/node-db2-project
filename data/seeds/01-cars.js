@@ -9,14 +9,14 @@ const cars = [
         transmission: 'manual',
     },
     {
-        vin: "1111111111111",
+        vin: "1211111111111",
         make: 'toyota',
         model:'corolla',
         mileage: 25000,
         title: 'salvage',
     },
     {
-        vin: "1111111111111",
+        vin: "1311111111111",
         make: 'ford',
         model:'focus',
         mileage: 21000,       
